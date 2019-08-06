@@ -27,6 +27,7 @@ logger.info("testcase passed");
 logger.warn("please check the warning");
 logger.error("critical error");
 logger.info("testcase 3 passed");
+logger.info("test case 4 failed");
 
 	}
 	
